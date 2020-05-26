@@ -1,0 +1,2 @@
+rootProject.name='HTEC App'
+include ':app'
